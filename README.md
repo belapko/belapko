@@ -13,7 +13,7 @@
 :information_source: Information systems and technologies student.
 
 
-:hammer_and_wrench: Improving my skills working in personal projects.
+:hammer_and_wrench: I improve my skills every day working in personal projects and solving LeetCode problems, and in my free time I play the guitar and solve the Rubik's Cube
 
 ### :gear: Tech Stack:
 
