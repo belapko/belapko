@@ -20,8 +20,7 @@
 - HTML
 - CSS, SCSS, Tailwind, Bootstrap
 - JavaScript, Typescript
-- React, react-routet-dom, axios
-- Mobx, learning Redux and NextJS
+- React, react-routet-dom, axios, mobx
 - Express, Prisma
 - Mongodb, Postgresql
 - Git, Postrman
