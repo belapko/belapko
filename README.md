@@ -18,12 +18,13 @@
 ### :gear: Tech Stack:
 
 - HTML
-- CSS, SASS, Tailwind, Bootstrap
+- CSS, SCSS, Tailwind, Bootstrap
 - JavaScript, Typescript
-- React
-- Mobx, learning Redux 
-- Express
+- React, react-routet-dom, axios
+- Mobx, learning Redux and NextJS
+- Express, Prisma
 - Mongodb, Postgresql
+- Git, Postrman
 
 https://movies-app-git-main-belapko.vercel.app/
 
