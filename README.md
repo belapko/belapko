@@ -7,25 +7,21 @@
 :superhero_man: I'm a Full Stack Web Developer interested in frontend as much as backend.
 
 
-💼 Currently I'm actively looking for a job.
+💼 Working at NBS Web-technologies
 
 
 :information_source: Information systems and technologies student.
 
 
-:hammer_and_wrench: I improve my skills every day working in personal projects and solving LeetCode problems, and in my free time I play the guitar and solve the Rubik's Cube
+:hammer_and_wrench: I improve my skills every day working on my personal and commercial projects
 
 ### :gear: Tech Stack:
 
 - HTML
-- CSS, SCSS, Tailwind, Bootstrap
+- CSS, CSS modules, Tailwind
 - JavaScript, Typescript
-- React, react-routet-dom, axios, mobx
-- Express, Prisma
-- Mongodb, Postgresql
-- Git, Postrman
-
-https://movies-app-git-main-belapko.vercel.app/
+- React, Redux (RTK, RTK Query)
+- Node.js, Express, Prisma, Mongoose, Mongodb
 
 <div align="center">
   <h1>Contact me!</h1>
