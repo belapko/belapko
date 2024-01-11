@@ -20,6 +20,7 @@
 - HTML
 - CSS, CSS modules, Tailwind
 - JavaScript, Typescript
+- VueJS, Pinia, vue-router
 - React, Redux (RTK, RTK Query)
 - Node.js, Express, Prisma, Mongoose, Mongodb
 
