@@ -7,9 +7,6 @@
 :superhero_man: I'm a Full Stack Web Developer interested in frontend as much as backend.
 
 
-💼 Working at NBS Web-technologies
-
-
 :information_source: Information systems and technologies student.
 
 
